@@ -1,1 +1,1 @@
-# ekyc-react-native-sdk-samples
+# ekyc-react-native-sdk-android-samples
